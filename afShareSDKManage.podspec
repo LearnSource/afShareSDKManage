@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'afShareSDKManage'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'A short description of afShareSDKManage.'
 
 # This description is used to generate tags and improve search results.
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = '工程代码第二个tag'
+  s.description      = '工程代码第四个tag'
 
   s.homepage         = 'https://github.com/LearnSource/afShareSDKManage'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
