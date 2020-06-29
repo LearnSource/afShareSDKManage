@@ -1,4 +1,5 @@
 # afShareSDKManage
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/weiheng8505@163.com/afShareSDKManage.svg?style=flat)](https://travis-ci.org/weiheng8505@163.com/afShareSDKManage)
 [![Version](https://img.shields.io/cocoapods/v/afShareSDKManage.svg?style=flat)](https://cocoapods.org/pods/afShareSDKManage)
@@ -27,3 +28,6 @@ weiheng8505@163.com, weiheng8505@163.com
 ## License
 
 afShareSDKManage is available under the MIT license. See the LICENSE file for more info.
+=======
+第一个代码库
+>>>>>>> 1dade09bcc2b5d818d65514a2bbe5324a9e61c04
