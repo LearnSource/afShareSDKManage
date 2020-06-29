@@ -1,0 +1,22 @@
+{
+  "name": "afShareSDKManage",
+  "version": "0.1.0",
+  "summary": "A short description of afShareSDKManage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weiheng8505@163.com/afShareSDKManage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weiheng8505@163.com": "weiheng8505@163.com"
+  },
+  "source": {
+    "git": "https://github.com/weiheng8505@163.com/afShareSDKManage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "afShareSDKManage/Classes/**/*"
+}

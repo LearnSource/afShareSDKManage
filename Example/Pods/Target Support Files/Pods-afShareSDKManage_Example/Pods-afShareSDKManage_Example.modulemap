@@ -1,0 +1,6 @@
+framework module Pods_afShareSDKManage_Example {
+  umbrella header "Pods-afShareSDKManage_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

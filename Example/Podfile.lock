@@ -1,0 +1,27 @@
+PODS:
+  - afShareSDKManage (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - afShareSDKManage (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  afShareSDKManage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  afShareSDKManage: ce689a4b965c872a50436bffb1cc8a1ae4bf9637
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: a940e51dabbc6691520f488fc534debe03ac3074
+
+COCOAPODS: 1.9.1

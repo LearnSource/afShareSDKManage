@@ -1,0 +1,6 @@
+framework module afShareSDKManage {
+  umbrella header "afShareSDKManage-umbrella.h"
+
+  export *
+  module * { export * }
+}
