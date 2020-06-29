@@ -11,6 +11,6 @@
 
 @implementation ZCPKit
 -(void)print {
-    NSLog(@"2020 6 29 0.1.0");
+    NSLog(@"2020 6 29 0.3.0");
 }
 @end
